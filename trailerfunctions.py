@@ -1,3 +1,7 @@
+''' Contains all neccesary functions for simulations and model building
+
+Import this module to use the functions
+'''
 # Copyright 2023 Jakob Madgar
 #
 # Licensed under the Apache License, Version 2.0 (the "License");

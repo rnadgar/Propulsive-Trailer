@@ -1,4 +1,4 @@
-
+![](https://github.com/rnadgar/Propulsive-Trailer/blob/main/misc/TrailerHeader.gif)
 # Propulsive-Trailer
 This repository is a derivative of the work published in web format at https://trailer.jakobmadgar.com. 
 
